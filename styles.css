@@ -118,6 +118,7 @@ img{
 }
 .services-card img:hover{
     transform: translateY(-15px);
+    background-color:brown;
 }
 .services p{
     font-size:20px;
@@ -155,6 +156,7 @@ opacity:0.9;
 }
 .project-card:hover{
     transform:translateY(-15px);
+    background-color:brown;
 }
 .project-card a:hover{
     background-color: brown;
@@ -252,4 +254,5 @@ footer{
     .navbar-toggle.active .bar:nth-child(3){
         transform: translateY(-8px) rotate(-45deg);
     }
+
 }

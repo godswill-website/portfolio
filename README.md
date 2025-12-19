@@ -10,12 +10,13 @@ This is my personal portfolio website showcasing my frontend development skills 
 
 ## 📂 Projects
 - Portfolio Website
-- Communio Service Website
-- Other frontend projects
+- church website
+- quiz app
+- calculator app
 
 ## 🌐 Live Website
 https://godswill-website.github.io/portfolio/
 
 ## 📞 Contact
-Email: your-email@example.com  
+Email: usimgodwin786@gmail.com 
 GitHub: https://github.com/godswill-website
